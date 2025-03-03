@@ -1,0 +1,3 @@
+[submodule "EDTEAMCURSOS"]
+	path = EDTEAMCURSOS
+	url = git@github.com:aresmartin/EDTeam.git
